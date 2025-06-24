@@ -2,7 +2,7 @@
 
 Laurie JEHAM -- Davy MARTHELY -- Nassime ABDIOU -- Benjamin BORELLO
 
-https://beamish-salamander-0860a8.netlify.app/
+https://develop--mysupercalculator.netlify.app/
 
 ---
 
