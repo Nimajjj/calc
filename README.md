@@ -2,6 +2,8 @@
 
 Laurie JEHAM -- Davy MARTHELY -- Nassime ABDIOU -- Benjamin BORELLO
 
+https://beamish-salamander-0860a8.netlify.app/
+
 ---
 
 This is a simple command-line calculator written in Python. It allows the user to perform basic arithmetic operations: addition, subtraction, multiplication, and division.
