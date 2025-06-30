@@ -25,4 +25,4 @@ jobs:
       # Exécution des tests Python
       - name: Run Python tests
         run: |
-          pytest main.py
+          pytest
