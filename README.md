@@ -2,7 +2,7 @@
 
 Laurie JEHAM -- Davy MARTHELY -- Nassime ABDIOU -- Benjamin BORELLO
 
-https://develop--mysupercalculator.netlify.app/
+https://mysupercalculator.netlify.app/
 
 ---
 

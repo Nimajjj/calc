@@ -1,0 +1,23 @@
+# Ignorer l'environnement virtuel local
+venv/
+
+# Ignorer tous les dossiers de cache Python
+__pycache__/
+**/__pycache__/
+
+# Ignorer les fichiers compilés Python
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorer les fichiers générés par PyInstaller
+dist/
+build/
+*.spec
+
+# Ignorer les fichiers spécifiques à macOS
+.DS_Store
+
+# Ignorer les fichiers des IDE courants (optionnel)
+.vscode/
+.idea/
